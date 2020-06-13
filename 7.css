@@ -1,0 +1,46 @@
+    
+    
+body {background-color: pink;
+       /* background-color: blue; */
+    animation: time forwards 1px; 
+ }
+h2{
+    width: 550px;
+    margin-left:500px ;
+    font-family: Segoe UI light;
+    
+}
+h4{
+    width: 650px;
+    color: red;
+    margin-left: 500px;
+   
+}
+
+ul{
+    margin-left: 470px;
+    font-size: 15px;
+    color: bl ue;
+}
+hr{
+    width: 1000px;
+    /* margin-left: ; */
+    margin-top: 10px;
+}
+p{
+    width: 500px;
+    margin-left: 500px;
+}
+img{
+    width: 1000px;
+    margin-left: 300px;
+}
+p{
+    width: 500px;
+    margin-left: 400px;
+}
+
+img{
+    width: 400px;
+    margin-left: 500px;
+}
